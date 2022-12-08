@@ -1,0 +1,26 @@
+.main-nav{
+    text-align: center;
+    
+}
+.main-nav h1{
+    color: #393E46;
+}
+.main-nav li{
+    list-style-type: none;
+}
+.main-nav a{
+    text-decoration: none;
+    margin-right: 15px;
+}
+.content{
+    text-align: center;
+}
+.content h2,h3{
+    color: #00ADB5;
+}
+.content li{
+    list-style-position: inside;
+}
+.content img{
+    height: 400px;
+}

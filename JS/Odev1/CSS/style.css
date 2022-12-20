@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: #e98208;
+ 
+}
+.text-center{
+    text-align: center;
+    font-size: 45px;
+}
+img{
+    width: 30%;
+    margin-top: 5%;
+}
+.text1{
+    font-size: 50px;
+}
+.text2{
+    font-size: 35px;
+}
